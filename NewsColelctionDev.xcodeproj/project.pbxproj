@@ -15,6 +15,7 @@
 		CFC883D2253E660F0004AAB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFC883D0253E660F0004AAB8 /* LaunchScreen.storyboard */; };
 		CFC883DD253E66100004AAB8 /* NewsColelctionDevTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC883DC253E66100004AAB8 /* NewsColelctionDevTests.swift */; };
 		CFC883E8253E66100004AAB8 /* NewsColelctionDevUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC883E7253E66100004AAB8 /* NewsColelctionDevUITests.swift */; };
+		CFC883F9253E66370004AAB8 /* APIKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFC883F8253E66370004AAB8 /* APIKey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CFC883E3253E66100004AAB8 /* NewsColelctionDevUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsColelctionDevUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFC883E7253E66100004AAB8 /* NewsColelctionDevUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsColelctionDevUITests.swift; sourceTree = "<group>"; };
 		CFC883E9253E66100004AAB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFC883F8253E66370004AAB8 /* APIKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CFC883CE253E660F0004AAB8 /* Assets.xcassets */,
 				CFC883D0253E660F0004AAB8 /* LaunchScreen.storyboard */,
 				CFC883D3253E660F0004AAB8 /* Info.plist */,
+				CFC883F8253E66370004AAB8 /* APIKey.swift */,
 			);
 			path = NewsColelctionDev;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				CFC883CA253E660E0004AAB8 /* ViewController.swift in Sources */,
 				CFC883C6253E660E0004AAB8 /* AppDelegate.swift in Sources */,
+				CFC883F9253E66370004AAB8 /* APIKey.swift in Sources */,
 				CFC883C8253E660E0004AAB8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
